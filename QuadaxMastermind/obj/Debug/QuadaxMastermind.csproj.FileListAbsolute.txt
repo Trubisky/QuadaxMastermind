@@ -1,0 +1,6 @@
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\bin\Debug\QuadaxMastermind.exe.config
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\bin\Debug\QuadaxMastermind.exe
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\bin\Debug\QuadaxMastermind.pdb
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\obj\Debug\QuadaxMastermind.csprojResolveAssemblyReference.cache
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\obj\Debug\QuadaxMastermind.exe
+c:\users\jack jusko\documents\visual studio 2017\Projects\QuadaxMastermind\QuadaxMastermind\obj\Debug\QuadaxMastermind.pdb
